@@ -1,0 +1,2 @@
+Choose any k and find run DBSCAN or Kmeans algo on the dataset. Find MSE for the clusters and vary the value of k for which MSE is minimum, this ensures that clusters are
+formed correctly.
