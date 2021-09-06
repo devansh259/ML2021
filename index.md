@@ -1,38 +1,51 @@
-## Welcome to GitHub Pages
+# Loan Prediction using ML
+Devansh Sharma and Gaurav Kanu
 
-You can use the [editor on GitHub](https://github.com/devansh259/ML2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Motivation 
+* Loan is the lending of money by individual in which the borrower incurs a debt that is paid as interest.
+* It becomes a  challenging task for banks to find if a person may or may not repay the loan.
+* Traditionally bankers take basic information such as annual income ,previous loan history and assets to find out the eligibility of a person.
+* With the advancement  of digital banking we now have large datasets containing information about previous loan transactions.
+* With the help of machine learning we can build models that can identify the eligibility and amount of loan to be given.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Plan
+* We will make two models, one that classifies if a person is eligible for a loan or not and second is how much loan can be given as a safe investment.
+* With the help of Linear regression and Logisitc Regression we can  make both the models.
+* We will try to apply Neural Networks on our model to make it much better.
 
-```markdown
-Syntax highlighted code block
+## Algorithms and Datasets
 
-# Header 1
-## Header 2
-### Header 3
+* Algorithms
+  * Support Vector Machines
+  * Linear Regression
+  * Logistic Regression
+  * Decision Trees/Random Forests
+  * Neural Networks
+* Datasets
+  * Data from kaggle https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset/metadata
+  * Data from Lending Club's website
 
-- Bulleted
-- List
+### Division of Labour
 
-1. Numbered
-2. List
+* We have planned our tasks till project midway which means completing the Logisitic Regression for loan eligibilty
+* Gaurav will work on finding new datasets and see the applicabilty of neural networks on our current model
+* Devansh will try to implement Logistic Regression.
+* Reports and website will be jointly handled.
 
-**Bold** and _Italic_ and `Code` text
+## References
 
-[Link](url) and ![Image](src)
-```
+* Hamid, Aboobyda Jafar, and Tarig Mohammed Ahmed. "Developing prediction model of loan risk in banks using data mining." Machine Learning and Applications: An International Journal (MLAIJ) Vol 3.1 (2016).
+* Arun, Kumar, Garg Ishan, and Kaur Sanmeet. "Loan approval prediction based on machine learning approach." IOSR J. Comput. Eng 18.3 (2016): 18-21.
+* Babaei, Golnoosh, and Shahrooz Bamdad. "A new hybrid instance-based learning model for decision-making in the P2P lending market." Computational Economics 57.1 (2021): 419-432.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devansh259/ML2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-Hello
+
+
+
+
+
