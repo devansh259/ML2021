@@ -8,7 +8,7 @@ Devansh Sharma and Gaurav Kanu
 * With the advancement  of digital banking we now have large datasets containing information about previous loan transactions.
 * With the help of machine learning we can build models that can identify the eligibility and amount of loan to be given.
 
-- [Sample Dataset](https://github.com/devansh259/ML2021/blob/gh-pages/docs/assets/images/dataset.PNG)
+- [Sample Dataset features](https://github.com/devansh259/ML2021/blob/gh-pages/docs/assets/images/dataset.PNG)
 
 
 ## Plan
